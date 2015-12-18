@@ -1,0 +1,12 @@
+---
+layout: page
+title: Contacts
+---
+
+p<>. Please contact us if you cannot find the information you need on our site.
+
+* If you have questions regarding the scientific part of the conference (e.g. program, calls, etc.), please contact the PC chair directly at pavel-at-complexible.com (Pavel Klinov).
+* If you have a general KESW-related question, please use the following e-mail: <img src="http://safemail.justlikeed.net/e/8e9d7a778a7dcfbb49c9fdf1b29a80aa.png" border="0" align="absbottom" title="Email image created with safemail.justlikeed.net">
+<!--* If you have questions regarding registration or visa support, please contact the company which handles registrations ("Rustour Congresses & Incentives":http://monomax.ru):-->
+
+

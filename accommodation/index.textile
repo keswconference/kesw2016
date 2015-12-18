@@ -1,0 +1,24 @@
+---
+layout: page
+title: Accommodation
+---
+
+p<>. Will be specified later.
+
+ <!-- h3. *(#hotelsputnik)"Hotel Sputnik":http://www.hotelsputnik.ru* -->
+
+<!-- "38, Leninsky prospekt":https://www.google.ru/maps/place/Leninskiy+pr.,+38,+Moskva,+119334/@55.704478,37.571772,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54c82f5b6923d:0xf29abcaf64d341c7?hl=en -->
+
+<!-- p<>. Hotel "Sputnik" is situated on Leninsky prospect, nearby from metro station «Leninsky Prospect» (973m). In foot availability from hotel there are the central office of the Sberbank, Academy of sciences, the pharmaceutical company «Solvej Farma», Moscow Business School. Near to hotel there are a Red Square (5 km), sport centre "Luzhniki", the Moscow State University, Neskuchny garden, Gorky Park. -->
+
+<!-- Special rates for the conference participants: -->
+
+<!-- |_. Room category |_. Single |_. Double/Twin |_. Place in twin |
+| <center>Standard room 
+(18/24 sq.m., 1 double or 2 twin beds, desk, armchair, refrigerator, free Wi-Fi, hair dryer, TV, telephone)</center> | 4800 | 5800 | 2900 | -->
+
+<!-- p<>. Check-in and check-out time: 12:00. If you want to check in before 12:00, you should pay extra price of one night stay. If you want  to stay after check-out time (till 0:00), you should pay 50% of the price of one night stay. -->
+
+<hr/>
+
+<!--*CANCELLATION TERMS:*-->

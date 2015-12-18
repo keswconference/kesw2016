@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Apr 19 19:16:53 CEST 2015
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=kesw-info-en.tex
+outputFile=kesw-info-en.pdf
+langSpell=ru
+markDer=true
+srcDir=

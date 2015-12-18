@@ -1,0 +1,14 @@
+---
+layout: page
+title: Visa support
+---
+
+h3. EU and US Citizens
+
+EU and US citizens do not need visa to visit the Czech Republic.
+
+h3. Russian Citizens
+
+_Will be specified later._
+
+We are looking forward to welcoming you in Prague!

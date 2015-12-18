@@ -1,0 +1,54 @@
+---
+-
+  label: Home
+  path: /
+#-
+  label: News
+  path: /news/
+-
+  label: Registration
+  path: /registration/
+  children:
+    -
+      label: Register Here!
+      path: /registration/main
+    -
+      label: Visa Support
+      path: /registration/visa
+    -
+      label: Payment Information
+      path: /registration/payment-info
+    -
+      label: Registration FAQ
+      path: /registration/faq
+-
+  label: Calls
+  path: /calls/
+-
+  label: Organization
+  path: /organization/
+-
+  label: Program
+  path: /program/
+-
+  label: Attending
+  path: /attending/
+  children:
+    -
+      label: Venue
+      path: /venue/
+    -
+      label: Accommodation
+      path: /accommodation/
+-
+  label: Keynotes
+  path: /keynotespeakers/
+#-
+#  label: Venue
+#  path: /venue/
+-
+  label: Sponsoring
+  path: /becomeasponsor/
+-
+  label: Contacts
+  path: /contacts/

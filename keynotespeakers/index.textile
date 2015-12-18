@@ -1,0 +1,22 @@
+---
+layout: page
+title: Keynote Speakers
+published: true
+---
+
+p<>. Will be announced.
+
+
+<!--h3. *"Markus Stocker":http://markusstocker.com*, University of Eastern Finland, Finland-->
+
+<!--p<>. *Title: Knowledge-based environmental research infrastructure with semantic web technologies*-->
+
+<!--!{width: 200px; float: left; margin: 10px;}/resources/markus.stocker.jpg!-->
+
+<!--p<>. _The talk aims at underscoring potential roles of semantic web technologies in environmental science, in particular for environmental research infrastructures that build on sensor networks. Compared to bioinformatics, where semantic web technologies have long found application in well-known projects, the adoption of the technologies in environmental science is arguably less prominent--despite having similar potential. We will discuss examples for how semantic web technologies are utilized in environmental science and focus on their potential role in software infrastructure for environmental research that relies on data acquired from sensor networks. To unleash the potential, researchers and developers in knowledge engineering and semantic web and earth and environmental scientists are encouraged to continue seeking interdisciplinary dialogue and further solidify collaboration_.-->
+
+<!--p<>. Markus is a researcher at the University of Eastern Finland where he is working at the intersection of semantic technologies and environmental sciences.
+He is well known in the Semantic Web community for his pioneering work on SPARQL query optimization using selectivity estimations for Basic Graph Patterns. 
+Previously he was a member of "HP Labs":http://www.hpl.hp.com/bristol/ in Bristol, UK, "Clark & Parsia":http://complexible.com, in Washington DC, as well as the University of Zurich, Switzerland.-->
+
+<!--p<>. &nbsp;-->

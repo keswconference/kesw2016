@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="{{ site.url }}/resources/shortcut_icon.png" type="image/png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta property="og:image" content="http://2016.kesw.ru/resources/kesw_logo_big.png">
+    <meta property="og:title" content="KESW 2016 | {{ page.title }}">
+
+    <title>KESW 2016 | {{ page.title }}</title>
+
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/style_1.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/style_2.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/style_3.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/themes/default/css/style_4.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/main.css" media="all" />
+
+    <!--[if lte IE 8]>
+        <link type="text/css" rel="stylesheet" href="{{ site.url }}/css/ie8-fixes.css" media="all" />
+    <![endif]-->
+
+    <script type="text/javascript" src="{{ site.url }}/js/js_1.js"></script>
+    <script type="text/javascript" src="{{ site.url }}/js/js_2.js"></script>
+    <script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+        jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bamboo","theme_token":"-1lbOEj1alFLfLN9y3CJ69DiY3c4i8V-KszjqemdxHk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/bamboo\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/bamboo\/css\/local.css":1,"sites\/all\/themes\/bamboo\/css\/menu.css":1,"sites\/all\/themes\/bamboo\/css\/normalize.css":1,"sites\/all\/themes\/bamboo\/css\/style.css":1,"sites\/all\/themes\/bamboo\/css\/design.css":1,"sites\/all\/themes\/bamboo\/css\/responsive.css":1,"sites\/all\/themes\/bamboo\/css\/ie8-fixes.css":1}}});
+//--><!]]>
+    </script>
+    <!--[if lt IE 9]>
+        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-71568701-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <script type="application/ld+json">
+    {
+    		"@context" : "http://schema.org",
+    		"@type" : "Event",
+    		"name" : "International Conference on Knowledge Engineering and Semantic Web 2016",
+    		"alternateName": "KESW 2016",
+    		"url": "http://kesw.cz/",
+    		"duration": "P3D",
+    		"startDate" : "2016-09-21T09:00",
+    		"location" : {
+    			"@type" : "Place",
+                "name" : "CTU FEE in Prague",
+                "telephone": "+420 22435 1111",
+    			"address" : {
+    				"@type" : "PostalAddress",
+                    "postalCode" : "12135",
+                    "streetAddress" : "Karlovo náměstí 13",
+    				"addressLocality" : "Prague",
+    				"addressCountry" : "CZ"
+    			}
+    		},
+            "offers" : {
+            	"@type" : "Offer",
+                "url" : "http://2016.kesw.ru/register/",
+                "price" : "50",
+                "priceCurrency": "EUR"
+            },
+    		"image" : "http://2016.kesw.ru/resources/kesw_logo.png",
+    		"description" : "KESW 2016 will be the 7th conference in the series. KESW is a top international event, this year taking place in the Czech Republic, and is dedicated to discussing research results and directions in the areas related to Knowledge Representation and Reasoning, Semantic Web, and Linked Data. Its aim is to bring together researchers, practitioners, and educators, in particular from ex-USSR, Eastern and Northern Europe, to present and share ideas regarding Semantic Web, and popularize the area in these regions. As last year, all technical sessions (keynotes, paper presentations, posters, etc.) will be held in English."
+    	}
+    </script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-2 node-type-page bg-gray-gradient color-palette-dark-rust header-font-sans-serif body-font-sans-serif sidebar-right">
+
+{% include header.html %}
+
+{% include menu.html %}
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+</html>

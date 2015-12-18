@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="container" id="content-wrapper">
+    <div id="content" class="eleven columns">
+        <section id="content" role="main">
+            <div id="breadcrumbs">
+                <nav class="breadcrumb">
+                    <a href="/">Home</a> »
+                    <a href="/news">News</a> » {{ page.title }}
+                </nav>
+            </div>
+            <h2 class="page-title">{{ page.title }}</h2>
+            <div class="region region-content">
+                <div id="block-system-main" class="block block-system">
+                    <div class="content">
+                        <span class="submitted">Posted on {{ page.date | date: "%-d %B %Y" }}</span>
+                        <div class="content">
+                            {{ content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    {% include sidebar.html %}
+
+</div>

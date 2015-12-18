@@ -1,0 +1,107 @@
+---
+layout: page
+title: Registration FAQ
+---
+
+h3. Registration and payments 
+
+* "How can I become a participant?":#R1
+
+* "How to get to my registration page?":#R2 
+
+* "What to do if you forgot your login/ password?":#R3 
+
+* "How can I pay?":#R4
+
+* "Types of payment":#R5
+
+* "How can I get financial documents (receipts, certificate of attendance and invoice)":#R6 
+
+* "How to know that my payment is accepted?":#R7
+
+* "How can book a hotel room or other additional services?":#R8 
+
+* "How can I obtain a visa?":#R9 
+
+* "How can I cancel my registration at the conference?":#R10
+
+h3. At the conference
+
+* "Where is the conference held and how can I get there?":#C1
+
+* "What is the procedure of registration?":#C2
+
+* "How can I get the conference schedule?":#C3 
+
+* "Where I can get more information and help?":#C4 
+
+
+h4(#R1). How can I become a participant? 
+
+Registration for the Conference is provided on-line. You have to go to the “Online registration” page. Press the button “Registration” and fill in all the necessary on-line forms. Personal information, received from you in the process of Conference registration will be not given to the third person without your agreement and will be used only for effective organization of your participation in the Conference. After receiving your application we will immediately send you the confirmation letter with your login and password. 
+
+h4(#R2). How to get to my registration page?
+
+After receiving the confirmation letter with your login and password you go back to the “Online registration” page and fill in login/password in the fields in section “Personal area”. In case you fail with on-line registration or have any questions, please, do not hesitate to contact Rustour Service Agency by e-mail: kesw-at-onlinereg.ru
+
+h4(#R3). What to do if you forgot your login/password?
+
+If your personal login/password was lost, you should go back to the “Online registration” page and enter the section “Login/password reminder”. On the next page you should fill in the e-mail that you indicated during the registration. We will send your login/password to this e-mail.
+
+h4(#R4). How can I pay?
+
+All payments (hotel accommodation, visa support or additional services) can be done separately. To return to the personal payment page to fulfill the rest of payment, you should use your login and password and enter your Personal area.
+
+* Step 1: Go to the Orders and payments section. Choose the services that you want to pay for at the moment. 
+
+* Step 2: Select a type of payment. 
+
+* Step 3: Fill in your credit card information or print a receipt (a bill). Pay the receipt.
+
+h4(#R5). Types of payment
+
+The payments can be done in three different ways: 
+
+# Payment by a credit card 
+# Payment by bank transfer 
+# Internet payment 
+
+More payment information can be found on the “Payment information”:{{ site.url }}/registration/payment-info page.
+
+h4(#R6). How can I get financial documents (receipts and invoice)?
+
+You can get the original invoice at the check-in desk at the conference. Feel free to contact us for any questions. We also can send you the documents by regular mail. 
+
+h4(#R7). How to know that my payment is accepted?
+
+We will immediately send you the confirmation that your payment is accepted by e-mail after we receive the payment. 
+
+h4(#R8). How can I book a hotel room or other additional services?
+
+Hotel accommodation, individual transport services, cultural program, visa support can be ordered at the Personal area of the participant in the same way as the registration fee. You need to select the appropriate option, method of payment, print and pay the bill.
+
+h4(#R9). How can I obtain a visa?
+
+Conference Service Agency Rustour PCO provides participants with the tourist visa support papers (invitation and hotel voucher). Rustour PCO has reference number of the Russian Ministry of Foreign Affairs. Visa support documents are issued based on a personal information submitted by each participant during the registration on this Web site (see the "Visa support":{{ site.url }}/registration/visa page) or per e-mail at kesw-at-onlinereg.ru. Rustour PCO provides visa support papers *only* after receiving hotel accommodation pre-payment or the hotel confirmation booked on your own.
+
+Usually we provide participants with documents for obtaining tourist visa, but if for any reason you need business visa support letter for your trip please note that it takes at least one month and a half to obtain it. You can find more information about obtaining a visa, all the requirements, prices and business visa form on the "Visa support":{{ site.url }}/registration/visa page.
+
+h4(#R10). How can I cancel my registration at the conference?
+
+If you would like to cancel his attendance at the Conference the notification letter together with the request for the reimbursement of the registration fee should be sent to the Conference Secretariat by e-mail: kesw-at-onlinereg.ru. All refunds will be made within 2 weeks after the conference has been finished. 
+
+h4(#C1). Where is KESW held and how can I get there?
+
+You are welcome to find detailed information about the conference venue at the "Venue":{{ site.url }}/venue page
+
+h4(#C2). What is the procedure of registration at the conference? 
+
+After you arrive to the venue please come to the registration desk to get a badge that you should wear at the conference. The package will include the program and other information materials. 
+
+h4(#C3). How can I get the conference schedule?
+
+Once the program is available, it will be posted on the conference Web page.
+
+h4(#C4). Where I can get more information and help?
+
+Please use Kesw-at-onlinereg.ru for registration, accommodation, or visa questions and info-at-kesw.ru for all other conference-related questions.

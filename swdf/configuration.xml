@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conferenceData>
+	<generalSettings>
+		<uriID>http://data.semanticweb.org/conference/kesw/2014</uriID>
+		<year>2014</year>
+		<month>October</month>
+		<proceedings_label>proceedings</proceedings_label>
+		<event_type>conference</event_type>
+	</generalSettings>
+	<conferenceEvent>
+		<name>5th International Conference on Knowledge Engineering and Semantic Web</name>
+		<startDate>2014-09-29</startDate>
+		<endDate>2014-10-01</endDate>
+		<timeZone>GMT+4</timeZone>
+		<logo>http://2014.kesw.ru/resources/kesw_logo.png</logo>
+		<acronym>KESW2014</acronym>
+		<homepage>http://2014.kesw.ru</homepage>
+		<geoLat>55.780505</geoLat>
+		<geoLong>49.133515</geoLong>
+	</conferenceEvent>
+	
+	<chairs>
+		<chair name = "General Chair">
+			<heldBy>
+				<first_name>Dmitry</first_name>
+				<last_name>Mouromtsev</last_name>
+				<email>mouromtsev@mail.ifmo.ru</email>
+				<homepage>http://dimour.spb.ru</homepage>
+				<country>RU</country>
+				<affiliation>ITMO University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/dmitry-mouromtsev</sameAs>
+			</heldBy>
+		</chair>
+		<chair name="Program Chair">
+			<heldBy>
+				<first_name>Pavel</first_name>
+				<last_name>Klinov</last_name>
+				<email>pavel.klinov@uni-ulm.de</email>
+				<homepage>http://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html</homepage>
+				<affiliation>University of Ulm</affiliation>
+				<sameAs>http://data.semanticweb.org/person/pavel-klinov</sameAs>
+			</heldBy>
+		</chair>
+		<chair name="Publicity Chair">
+			<heldBy>
+				<first_name>Maxim</first_name>
+				<last_name>Kolchin</last_name>
+				<email>kolchinmax@gmail.com</email>
+				<homepage>http://kolchinmax.ru</homepage>
+				<affiliation>ITMO University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/maxim-kolchin</sameAs>
+			</heldBy>
+		</chair>
+		<chair name="Local Organization Chair">
+			<heldBy>
+				<first_name>Ayrat</first_name>
+				<last_name>Khasyanov</last_name>
+				<country>RU</country>
+				<affiliation>Kazan Federal University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/ayrat-khasyanov</sameAs>
+			</heldBy>
+			<heldBy>
+				<first_name>Vladimir</first_name>
+				<last_name>Ivanov</last_name>
+				<country>RU</country>
+				<affiliation>Kazan Federal University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/vladimir-ivanov</sameAs>
+			</heldBy>
+			<heldBy>
+				<first_name>Alik</first_name>
+				<last_name>Kirillovich</last_name>
+				<country>RU</country>
+				<affiliation>Kazan Federal University</affiliation>
+				<sameAs>http://data.semanticweb.org/person/alik-kirillovich</sameAs>
+			</heldBy>
+		</chair>
+	</chairs>
+	<invitedTalks>	
+		<invitedTalk>
+	     <label>Ontology and User Profiling in 3G Recommender Systems</label>
+	     <uriID></uriID>
+	     <speaker>
+		    <first_name>Vladimir</first_name>
+		    <last_name>Gorodetsky</last_name>
+				<sameAs>http://data.semanticweb.org/person/vladimir-gorodetsky</sameAs>
+	     </speaker>
+	     <dtstart>2014-09-29T09:20:00</dtstart>
+	     <dtend>2014-09-29T10:20:00</dtend>
+	  </invitedTalk>
+		<invitedTalk>
+	     <label>From Data to Knowledge – Profiling and Interlinking Datasets on the Web</label>
+	     <uriID>http://data.semanticweb.org/person/stefan-dietze</uriID>
+	     <speaker>
+		    <first_name>Stefan</first_name>
+		    <last_name>Dietze</last_name>
+				<sameAs>http://data.semanticweb.org/person/stefan-dietze</sameAs>
+	     </speaker>
+	     <dtstart>2014-09-30T09:15:00</dtstart>
+	     <dtend>2014-09-30T10:15:00</dtend>
+	  </invitedTalk>
+	  <invitedTalk>
+	     <label>What Can Ontology and Natural Language Do For Each Other?</label>
+	     <uriID></uriID>
+	     <speaker>
+		    <first_name>Julia</first_name>
+		    <last_name>Taylor</last_name>
+				<sameAs>http://data.semanticweb.org/person/julia-taylor</sameAs>
+	     </speaker>
+	     <dtstart>2014-10-01T09:15:00</dtstart>
+	     <dtend>2014-10-01T10:05:00</dtend>
+	  </invitedTalk>
+	</invitedTalks>
+	<proceedings>
+		<title>Proceedings of 5th Conference on Knowledge Engineering and the Semantic Web (KESW2014), September 29-October 1, 2014</title>
+		<year>2014</year>
+		<month>October</month>
+		<editor>
+			<first_name>Pavel</first_name>
+			<last_name>Klinov</last_name>
+			<homepage>https://www.uni-ulm.de/en/in/ki/staff/dr-pavel-klinov.html</homepage>
+			<sameAs>http://data.semanticweb.org/person/pavel-klinov</sameAs>
+		</editor>
+		<editor>
+			<first_name>Dmitry</first_name>
+			<last_name>Mouromtsev</last_name>
+			<affiliation>ITMO University</affiliation>
+			<homepage>http://dimour.spb.ru</homepage>
+			<country>RU</country>
+			<sameAs>http://data.semanticweb.org/person/dmitry-mouromtsev</sameAs>
+		</editor>
+	</proceedings>
+
+</conferenceData>

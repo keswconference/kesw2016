@@ -1,0 +1,8 @@
+name: KESW 2016 Conference
+url: http://localhost:4000
+markdown: redcarpet
+highligther: pygments
+safe: false
+encoding: UTF-8
+exclude: []
+gems: [jekyll-textile-converter]

@@ -1,0 +1,30 @@
+---
+layout: page
+title: Register
+---
+
+h2. Registration Fees
+
+p<>. _Registration fees will be specified._
+
+<!--
+|_. Date of registration |_. Regular fee |_. Academic fee |_. Student fee |
+| Early | €100 | €75 | €50 |
+| Late/On-site | €200 | €150 | €100 |
+-->
+
+p<>. Both undergraduate and graduate (that is, those doing MSc or PhD) students qualify for the student fee.
+
+p<>. Employees of academic institutions and non-for-profit research institutions qualify for the academic fee.
+
+**Early conference registration deadline: _Will be announced_**
+
+h2. Visa support
+
+p<>. _Will be specified._
+
+p<>. EU and US citizens do not need visa to visit the Czech Republic.
+
+h2. Registration
+
+p<>. Registration will be opened later
