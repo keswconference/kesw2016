@@ -5,16 +5,12 @@
                 {% for menu in site.data.menu %}
                     {% assign menuurl = menu.path | append: 'index.html' %}
                     <li class="{% if forloop.first %}first {% elsif forloop.last%}last {% endif %}{% if menu.children != null %}expanded{% else %}leaf{% endif %}">
-                        <!--<a href="{{ site.url }}{{ menu.path }}" {% if page.url == menuurl %}class="active"{% endif %}>{{ menu.label }}</a>-->
-                        <!-- Using relative url (without site path) so that different domains can be used for the site -->
-                        <a href="{{ menu.path }}" {% if page.url == menuurl %}class="active"{% endif %}>{{ menu.label }}</a>
+                        <a href="{{ site.url }}{{ menu.path }}" {% if page.url == menuurl %}class="active"{% endif %}>{{ menu.label }}</a>
                         {% if menu.children != null %}
                             <ul class="menu">
                             {% for submenu in menu.children %}
                                 <li class="{% if forloop.first %}first {% elsif forloop.last%}last {% endif %}leaf">
-                                    <!--<a href="{{ site.url }}{{ submenu.path}}" {% if page.path contains submenu.path %}class="active"{% endif %}>{{ submenu.label }}</a>-->
-                                    <!-- Using relative url (without site path) so that different domains can be used for the site -->
-                                    <a href="{{ submenu.path}}" {% if page.path contains submenu.path %}class="active"{% endif %}>{{ submenu.label }}</a>
+                                    <a href="{{ site.url }}{{ submenu.path}}" {% if page.path contains submenu.path %}class="active"{% endif %}>{{ submenu.label }}</a>
                                 </li>
                             {% endfor %}
                             </ul>
