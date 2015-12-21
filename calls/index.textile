@@ -103,7 +103,7 @@ p<>. All authors will be required to pre-submit abstracts of their papers. Both 
 * System description papers: 10 pages including references.
 * Posters and position papers: 2 page abstract.
 
-bq.  We strongly encourage all authors to prepare their submissions according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format. This will be strictly enforced for all accepted papers. Contact Pavel Klinov if this becomes a show stopper.
+bq.  We strongly encourage all authors to prepare their submissions according to the "Springer LNCS":http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0 format. This will be strictly enforced for all accepted papers. Contact Axel Ngonga (PC Chair) if this becomes a show stopper.
 
 h3. IMPORTANT DATES
 
