@@ -15,7 +15,7 @@ p=. *Prague, Czech Republic*
     {% for post in site.posts limit: 3 %}
         <li>
             {{ post.date | date: "%-d %B %Y" }}
-            <a href="{{ post.url | remove_first:'/' }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
     </ul>
