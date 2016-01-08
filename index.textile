@@ -31,9 +31,13 @@ p<>. More information will be announced later, stay tuned and "follow us":https:
 
 <hr/><br/>
 
-p=. Proceedings will be published by Springer in "CCIS":http://www.springer.com/series/7899 series
+<!-- Hide Springer logo until we have green light for the proceedings -->
 
-<div style="text-align: center">
+<!--
+p=. Proceedings will be published by Springer in "CCIS":http://www.springer.com/series/7899 series
+-->
+
+<div style="text-align: center; display: none;">
     <a href="http://springer.com/"><img src="{{ site.url }}/resources/springer.jpg" width="200px"/></a>
     <a href="http://www.springer.com/series/7899"><img src="{{ site.url }}/resources/CCIS-Logo.png" width="80px"/></a>
 </div>
