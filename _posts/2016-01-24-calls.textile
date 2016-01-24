@@ -1,0 +1,6 @@
+---
+layout: post
+title: KESW 2016 Call for Papers
+---
+
+p<>. Announcing call for papers for KESW 2016. The topics and deadlines can be found "here":{{ site.url }}/calls.
