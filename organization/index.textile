@@ -16,11 +16,8 @@ h3. Main organizers
 
 h3. Program committee
 
-Will be announced.
 
-<!--
-<table id="pc">-->
-{% comment %}
+<table id="pc">
 {% for member in site.data.pc %}
     <tr>
         <td class="name" width="30%">
@@ -32,8 +29,7 @@ Will be announced.
         </td>
         <td class="affiliation" width="70%">{{ member.affiliation }}</td>
     </tr>
-{% endfor%}
-{% endcomment %}
-<!--</table>-->
+{% endfor %}
+</table>
 
 <!--h3. Additional reviewers-->
