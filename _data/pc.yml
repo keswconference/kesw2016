@@ -11,10 +11,6 @@
     page: http://www.rodriguez-muro.com/
     affiliation: IBM Research, USA
 -
-    name: Mariano Rodríguez Muro
-    page: http://www.rodriguez-muro.com/
-    affiliation: IBM Research, USA
--
     name: Jakub	Klimek
     page: http://www.ksi.mff.cuni.cz/~klimek
     affiliation: Czech Technical University in Prague, Czech Republic
@@ -56,6 +52,7 @@
     affiliation: University of Ulm, Germany
 -
     name: Tzanina Saveta
+    page: https://scholar.google.com/citations?user=VZ3NntUAAAAJ&hl=en
     affiliation: ICS-FORTH, Greece
 -
     name: Dmitry Mouromtsev
