@@ -3,4 +3,33 @@ layout: page
 title: Payment information
 ---
 
-_Will be specified later._
+p<>. Payment in CZK can be made:
+
+* by **credit card** (VISA, Eurocard, MasterCard, JCB, Diners Club),
+* by **bank transfer**.
+
+Please transfer the payment in Czech Crowns to the following account:
+
+* **CZK** Account No. **221442101/0100**
+* **IBAN: CZ0801000000000221442101**
+* Swift Code: **KOMBCZPP**
+
+<p />
+
+p<>. Komercni banka Praha 10 - Kubanske namesti 15; Prague 10, Czech Republic.
+Account holder - Milena Zeithamlova, Agentura Action M, Vrsovicka 68, Prague 10, Czech Republic.
+
+p<>. Please indicate your name as payment description/identification.
+
+Czech participants can use the "variabilní symbol" **2309** or the invoice number sent after filling the form.
+
+The complete registration is confirmed by issuing the invoice upon receiving the payment.
+
+Please make sure that the bank transfer is net of all bank charges and commissions made. Remaining charges will be requested upon your arrival when registering.
+
+If any difficulties in sending payment in Czech Crowns arise, please let us know to assist you or to help you arrange the payment in EUR or USD.
+
+
+h3. Cancellation Policy
+
+The registration fee deducted of **CZK 1200** will be refunded for all written cancellations sent to Action M Agency not later than **September 5, 2016.** After that date no refund of registration fee will be provided.
