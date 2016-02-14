@@ -3,12 +3,31 @@ layout: page
 title: Visa support
 ---
 
-h3. EU and US Citizens
+p<>. A valid passport is required to visit the Czech Republic.
 
-EU and US citizens do not need visa to visit the Czech Republic.
+p<>. An up-to-date list of countries qualified for visa-less visit to the Czech Republic can be found at the website of the "Czech Ministry of Foreign Affairs":http://www.mzv.cz/jnp/en/information_for_aliens/general_visa_information/. You can also check with the Embassy or Consulate in your country about regulations for your nationality.
 
-h3. Russian Citizens
+h3. No Visa Required
 
-_Will be specified later._
+Citizens of most EU countries, US, Israel, and some other countries do not need a visa for short-term visits.
 
-We are looking forward to welcoming you in Prague!
+h3. Visa Required
+
+The company handling conference registration ("Action M Agency":http://www.action-m.com/) will be also providing visa support. Should you need an invitation letter for your visa, please send an email to <img src="http://safemail.justlikeed.net/e/7fdcf307221346fea9c9ae40546186df.png" border="0" align="absbottom" title="Email image created with safemail.justlikeed.net"/>
+and provide the following details:
+* Last name, first name,
+* Date of birth,
+* Home address - street, town, country,
+* Nationality,
+* Passport number.
+
+<p />
+
+p<>. Visa letters will only be issued to:
+* Speakers/Presenters
+* Committee members
+* Attendees who have paid the registration fee
+
+<p />
+
+p<>. We are looking forward to welcoming you in Prague!

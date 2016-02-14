@@ -6,9 +6,9 @@ title: Register
 h2. Registration Fees
 
 |_. Date of registration |_. Regular fee |_. Academic fee |_. Student fee |
-| Early | 8000 CZK | 6600 CZK | 5000 CZK |
-| Regular | 9500 CZK | 8100 CZK | 6500 CZK |
-| Late/On-site | 11000 CZK | 9600 CZK | 8000 CZK|
+| Early (July 11, 2016) | 8000 CZK | 6600 CZK | 5000 CZK |
+| Late (September 19, 2016) | 9500 CZK | 8100 CZK | 6500 CZK |
+| On-site | 11000 CZK | 9600 CZK | 8000 CZK|
 
 Accompanying person fee: **800 CZK**
 
@@ -20,17 +20,17 @@ p<>. Employees of academic institutions and non-for-profit research institutions
 
 **Early conference registration deadline: July 11, 2016**
 
-**Regular registration deadline: September 19, 2016**
+**Late registration deadline: September 19, 2016**
 
-**Regular registration fee** includes an attendance at the conference, Springer Verlag proceedings, conference package, conference dinner, refreshments during breaks, and use of conference facilities.
+**Registration fee** includes an attendance at the conference, Springer Verlag proceedings, conference package, conference dinner, refreshments during breaks, and use of conference facilities.
 
 **Accompanying person fee** includes refreshments during breaks, conference dinner, and assistance with individual cultural events requests. **Attendance at the KESW 2016 scientific program and sessions is not covered.**
 
 h2. Visa support
 
-p<>. _Will be specified._
+p<>. A valid passport is needed to enter the Czech Republic.
 
-p<>. EU and US citizens do not need visa to visit the Czech Republic.
+p<>. Citizens of most EU countries, US, Israel, and some other countries do not need a visa for short-term visits to the Czech Republic. Attendees from other countries will be provided invitation letters on request. More info can be found at the "Visa Support":{{ site.url }}/registration/visa page.
 
 h2. Registration
 
