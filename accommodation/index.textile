@@ -3,22 +3,61 @@ layout: page
 title: Accommodation
 ---
 
-p<>. Will be specified later.
+h3. "NH Prague City Hotel":http://www.nhprague.com/ ****
 
- <!-- h3. *(#hotelsputnik)"Hotel Sputnik":http://www.hotelsputnik.ru* -->
+"Mozartova 261/1":https://www.google.com/maps/place/Hotel+NH+Prague+City/@50.0712744,14.3949973,17z/data=!3m1!4b1!4m2!3m1!1s0x470b9455a35c6a01:0xd57ac0c66b83b32a
+150 00 Prague
+Czech Republic
 
-<!-- "38, Leninsky prospekt":https://www.google.ru/maps/place/Leninskiy+pr.,+38,+Moskva,+119334/@55.704478,37.571772,17z/data=!3m1!4b1!4m2!3m1!1s0x46b54c82f5b6923d:0xf29abcaf64d341c7?hl=en -->
+<img src="{{ site.url }}/resources/nh-prague-view.jpg" title="NH Prague City Hotel" alt="NH Prague City Hotel"/>
 
-<!-- p<>. Hotel "Sputnik" is situated on Leninsky prospect, nearby from metro station «Leninsky Prospect» (973m). In foot availability from hotel there are the central office of the Sberbank, Academy of sciences, the pharmaceutical company «Solvej Farma», Moscow Business School. Near to hotel there are a Red Square (5 km), sport centre "Luzhniki", the Moscow State University, Neskuchny garden, Gorky Park. -->
+p<>. NH Prague City Hotel is situated in the modern business district of Andel, bordering the historic city centre.
+    Hotel consists of two separate buildings connected by a cable car, and offers panoramic views over Prague. Free Wi-Fi is available in both buildings.
 
-<!-- Special rates for the conference participants: -->
+Set amid green gardens, the hotel offers easy access to all sights by public transport. The nearest metro station Andel on line B which is 400 metres away takes you to the
+    conference venue - station Karlovo namesti (only 1 stop). On-site private parking is possible at a surcharge.
+    All rooms at NH Prague City Hotel are air-conditioned, and come with satellite TV and a minibar. Wifi connection is free in all rooms.
 
-<!-- |_. Room category |_. Single |_. Double/Twin |_. Place in twin |
-| <center>Standard room 
-(18/24 sq.m., 1 double or 2 twin beds, desk, armchair, refrigerator, free Wi-Fi, hair dryer, TV, telephone)</center> | 4800 | 5800 | 2900 | -->
+Special rates for the conference participants:
 
-<!-- p<>. Check-in and check-out time: 12:00. If you want to check in before 12:00, you should pay extra price of one night stay. If you want  to stay after check-out time (till 0:00), you should pay 50% of the price of one night stay. -->
+|_. Room category |_. Price per night (Early Bird) |_. Price per night (Regular) |
+| Standard New Style Room | 100 EUR | 110 EUR |
+| Superior Room | 115 EUR | 125 EUR |
+
+__Prices are per night, include buffet breakfast, internet connection, city tax and 15% of VAT.__
+
+Reservation deadlines:
+
+*Early bird: June 30, 2016*
+*Regular: August 22, 2016*
+
+__After August 22, 2016, the hotel cannot guarantee the reservation. The number of rooms is limited.__
+
+p<>. If you are interested in hotel reservation, please fill the
+
+<center>*"Reservation request":https://secure.action-m.com/kesw2016-form/*.</center>
+
+h5. Standard New Style Room
+
+These recently nicely renovated rooms are located in the main building. Guests staying in these rooms can enjoy access to the fitness/wellnes center, internet, tea and coffee facilities.
+Room Size: 24 square metre
+
+h5. Superior Room
+
+These spacious rooms are located in the executive wing of the hotel complex. Guests staying in these rooms can enjoy access to the fitness center, complimentary Internet access , Nespresso coffeemaker right in your room, use of the hotel’s Business Center and fitness/wellness facilities free of charge, complimentary welcome drinks daily in the Tower Lounge Bar.
+Room Size: 30 square metres
+
+h4. Hotel location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.80174491799!2d14.39499731588886!3d50.07127442249407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b9455a35c6a01%3A0xd57ac0c66b83b32a!2sHotel+NH+Prague+City!5e0!3m2!1scs!2s!4v1455613232890" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <hr/>
 
-<!--*CANCELLATION TERMS:*-->
+*ADDITIONAL TERMS:*
+
+NH Prague City Hotel reserves the right not to confirm the reservation if the form is not completed or not completed correctly and if not guaranteed by a credit card or prepaid.
+For additional accommodation requests please contact NH Prague Hotel reservation department
+
+Ms. Marketa Fridrichova
+e-mail: m.fridrichova-at-nh-hotels.com
+phone: +420 257 153 435
