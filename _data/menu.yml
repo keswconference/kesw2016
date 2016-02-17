@@ -18,9 +18,6 @@
     -
       label: Payment Information
       path: /registration/payment-info
-    -
-      label: Registration FAQ
-      path: /registration/faq
 -
   label: Calls
   path: /calls/

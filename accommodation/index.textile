@@ -9,8 +9,6 @@ h3. "NH Prague City Hotel":http://www.nhprague.com/ ****
 150 00 Prague
 Czech Republic
 
-<img src="{{ site.url }}/resources/nh-prague-view.jpg" title="NH Prague City Hotel" alt="NH Prague City Hotel"/>
-
 p<>. NH Prague City Hotel is situated in the modern business district of Andel, bordering the historic city centre.
     Hotel consists of two separate buildings connected by a cable car, and offers panoramic views over Prague. Free Wi-Fi is available in both buildings.
 
@@ -42,10 +40,14 @@ h5. Standard New Style Room
 These recently nicely renovated rooms are located in the main building. Guests staying in these rooms can enjoy access to the fitness/wellnes center, internet, tea and coffee facilities.
 Room Size: 24 square metre
 
+<img src="{{ site.url }}/resources/NHPrague_StandardNewStyle.jpg" title="NH Prague City Hotel - Standard room" alt="NH Prague City Hotel - Standard room"/>
+
 h5. Superior Room
 
 These spacious rooms are located in the executive wing of the hotel complex. Guests staying in these rooms can enjoy access to the fitness center, complimentary Internet access , Nespresso coffeemaker right in your room, use of the hotel’s Business Center and fitness/wellness facilities free of charge, complimentary welcome drinks daily in the Tower Lounge Bar.
 Room Size: 30 square metres
+
+<img src="{{ site.url }}/resources/NHPrague_Superior_room_twin.jpg" title="NH Prague City Hotel - Superior room" alt="NH Prague City Hotel - Superior room"/>
 
 h4. Hotel location
 
