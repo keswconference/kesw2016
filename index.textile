@@ -47,13 +47,9 @@ p<>.  _All deadlines are for the Hawaii time zone._
 
 <hr/><br/>
 
-<!-- Hide Springer logo until we have green light for the proceedings -->
+p=. Proceedings will be published by Springer in the "CCIS":http://www.springer.com/series/7899 series
 
-<!--
-p=. Proceedings will be published by Springer in "CCIS":http://www.springer.com/series/7899 series
--->
-
-<div style="text-align: center; display: none;">
+<div style="text-align: center;">
     <a href="http://springer.com/"><img src="{{ site.url }}/resources/springer.jpg" width="200px"/></a>
     <a href="http://www.springer.com/series/7899"><img src="{{ site.url }}/resources/CCIS-Logo.png" width="80px"/></a>
 </div>
