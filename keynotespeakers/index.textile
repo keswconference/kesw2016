@@ -4,19 +4,24 @@ title: Keynote Speakers
 published: true
 ---
 
-p<>. Will be announced.
 
+h3. *"Axel Polleres":https://ai.wu.ac.at/~polleres/*, Institute for Information Business, WU Wien, Austria
 
-<!--h3. *"Markus Stocker":http://markusstocker.com*, University of Eastern Finland, Finland-->
+p<>. *Title: (Enterprise) Linked Data: What's missing?*
 
-<!--p<>. *Title: Knowledge-based environmental research infrastructure with semantic web technologies*-->
+!{width: 200px; float: left; margin: 10px;}/resources/AxelPolleres.jpg!
 
-<!--!{width: 200px; float: left; margin: 10px;}/resources/markus.stocker.jpg!-->
+p<>. _In this talk, I will discuss gaps and challenges to deploy the ideas of Linked Data and the Semantic Web, from an Enterprise point of view. Shifting away from a predominantly academic perspective and an exclusive focus on open data, many of us conceive Linked Data as an emerging key disruptive technology for enterprise data management. Still, various challenges lie ahead to lay the foundations_
+      _for successful Enterprise Linked Data product and services development. In a current research project, "PROPEL: Propelling the potential of Enterprise Linked Data in Austria":http://www.linked-data.at/, we gauge industry requirements and innovation potentials as well as technology & standards gaps for Linked Data to be effectively usable in enterprises. We'll report on the findings and on potential contributions to fill these gaps from our own research at WU Wien._
 
-<!--p<>. _The talk aims at underscoring potential roles of semantic web technologies in environmental science, in particular for environmental research infrastructures that build on sensor networks. Compared to bioinformatics, where semantic web technologies have long found application in well-known projects, the adoption of the technologies in environmental science is arguably less prominent--despite having similar potential. We will discuss examples for how semantic web technologies are utilized in environmental science and focus on their potential role in software infrastructure for environmental research that relies on data acquired from sensor networks. To unleash the potential, researchers and developers in knowledge engineering and semantic web and earth and environmental scientists are encouraged to continue seeking interdisciplinary dialogue and further solidify collaboration_.-->
+p<>. &nbsp;
 
-<!--p<>. Markus is a researcher at the University of Eastern Finland where he is working at the intersection of semantic technologies and environmental sciences.
-He is well known in the Semantic Web community for his pioneering work on SPARQL query optimization using selectivity estimations for Basic Graph Patterns. 
-Previously he was a member of "HP Labs":http://www.hpl.hp.com/bristol/ in Bristol, UK, "Clark & Parsia":http://complexible.com, in Washington DC, as well as the University of Zurich, Switzerland.-->
+h3. *"Filip Železný":http://ida.felk.cvut.cz/zelezny/*, Department of Computer Science, FEE CTU in Prague, Czech Republic
 
-<!--p<>. &nbsp;-->
+p<>. *Title: Semantic web and machine learning: time to re-sync*
+
+!{width: 200px; float: left; margin: 10px;}/resources/FilipZelezny.jpg!
+
+p<>. _In the prospective keynote talk I propose to review some recent developments due to different authors in the intersection of knowledge representation and semantic web on one hand, and machine learning on the other hand. The talk would address the state of the art in symbolic learning using logical frameworks native to the semantic web community, but it would also cover some interesting results triggered by the statistical and deep-learning stream, such as embedding knowledge bases into tensor or connectionist representations allowing the induction of novel concepts. The talk would be more of a review rather than a self-centric story._
+
+p<>. &nbsp;
