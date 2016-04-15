@@ -1,0 +1,6 @@
+---
+layout: post
+title: Call for Papers Deadlines Extended
+---
+
+p<>. Call for Papers deadlines have been extended. Checkout out the "Calls":{{ site.url }}/calls page.
