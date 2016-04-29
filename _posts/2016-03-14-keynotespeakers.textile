@@ -1,6 +1,0 @@
----
-layout: post
-title: Announcing First Two Keynote Speakers
----
-
-p<>. We are happy to announce the first two keynote speakers for the conference - Axel Polleres and Filip Železný. More info about the talks "here":{{ site.url }}/keynotespeakers.

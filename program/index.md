@@ -5,6 +5,6 @@ title: The Program
 
 <!-- p<>. Best paper candidates are _emphasized_. -->
 
-p<>. Will be announced.
+Will be announced.
 
 

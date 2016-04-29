@@ -1,6 +1,6 @@
 name: KESW 2016 Conference
 url: http://2016.kesw.ru
-markdown: redcarpet
+markdown: kramdown
 highligther: pygments
 safe: true
 encoding: UTF-8

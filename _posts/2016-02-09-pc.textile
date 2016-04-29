@@ -1,6 +1,0 @@
----
-layout: post
-title: KESW 2016 Program Committee
----
-
-p<>. KESW 2016 Program Committe can be found "here":{{ site.url }}/organization.

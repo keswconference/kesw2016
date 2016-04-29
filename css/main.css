@@ -10,6 +10,16 @@
   padding: 0;
 }
 
+.text-center { text-align: center; }
+.text-justify { text-align: justify; }
+.text-bold { font-weight: bold; }
+
+.keynote-photo {
+    width: 200px;
+    float:left;
+    margin: 10px;
+}
+
 /*****************************************************************************/
 /*
 /* Program table

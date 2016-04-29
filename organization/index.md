@@ -4,17 +4,19 @@ title: Organization committee
 published: true
 ---
 
-h3. Main organizers
+### Main organizers
 
-*General Chair:* Petr Křemen, "FEE CTU in Prague":https://www.fel.cvut.cz/en/, Czech Republic
+**General Chair:** Petr Křemen, [FEE CTU in Prague](https://www.fel.cvut.cz/en/), Czech Republic
 
-*Program Chair:* Axel-C. Ngonga Ngomo, "University of Leipzig":http://aksw.org/AxelNgonga.html, Germany
+**Program Chair:** Axel-C. Ngonga Ngomo, [University of Leipzig](http://aksw.org/AxelNgonga.html), Germany
 
-*Open Science and Education Chair:* _Will be announced._
+**Open Science and Education Chair:** *Will be announced.*
 
-*Publicity Chair:* "Maxim Kolchin":http://kolchinmax.ru, "ITMO University":http://en.ifmo.ru, Russia and Martin Ledvinka, "FEE CTU in Prague":https://www.fel.cvut.cz/en/, Czech Republic
+**Publicity Chair:**  
+[Maxim Kolchin](http://kolchinmax.ru), [ITMO University](http://en.ifmo.ru), Russia  
+Martin Ledvinka, [FEE CTU in Prague](https://www.fel.cvut.cz/en/), Czech Republic
 
-h3. Program committee
+### Program committee
 
 
 <table id="pc">

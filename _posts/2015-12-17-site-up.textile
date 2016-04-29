@@ -1,6 +1,0 @@
----
-layout: post
-title: KESW 2016 Web is running
----
-
-p<>. The website for KESW 2016, which will be held in Prague, is finally running.
