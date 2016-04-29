@@ -28,7 +28,7 @@ Platinum sponsor is also the official sponsor of the visit of the invited speake
 * Talk of the sponsor’s representative in the panel session (10 min).
 * Mention of the sponsor at the closing ceremonies.
 
-# Silver sponsor (1 000 Euro)[1] [2]
+# Silver sponsor (1 000 Euro)<a href="#fn1"><sup>1</sup></a><a href="#fn2"><sup>2</sup></a>
 
 * Assigning the status "Silver Sponsor of KESW (Knowledge Engineering and Semantic Web Conference) 2016".
 * Placement of the logo, with the status on the event website on all pages on all promotional materials and POS-material.

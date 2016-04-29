@@ -7,9 +7,9 @@ title: Register
 
 <table>
     <tr><th>Date of registration</th><th>Regular fee</th><th>Academic fee</th><th>Student fee</th></tr>
-    <tr><td>Early (July 11, 2016)</td><td>8000 CZK</td><td>6600 CZK</td><td>5000 CZK</th></tr>
-    <tr><td>Late (September 19, 2016)</td><td>9500 CZK</td><td>8100 CZK</td><td>6500 CZK</th></tr>
-    <tr><td>On-site</td><td>11000 CZK</td><td>9600 CZK</td><td>8000 CZK</th></tr>
+    <tr><td>Early (July 11, 2016)</td><td>8000 CZK</td><td>6600 CZK</td><td>5000 CZK</td></tr>
+    <tr><td>Late (September 19, 2016)</td><td>9500 CZK</td><td>8100 CZK</td><td>6500 CZK</td></tr>
+    <tr><td>On-site</td><td>11000 CZK</td><td>9600 CZK</td><td>8000 CZK</td></tr>
 </table>
 
 Accompanying person fee: **800 CZK**
