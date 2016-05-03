@@ -3,11 +3,11 @@ layout: frontpage
 title: International Knowledge Engineering and Semantic Web Conference 2016
 ---
 
-**<p class="text-center">International Conference on Knowledge Engineering and Semantic Web</p>**
+<p class="text-center"><strong>International Conference on Knowledge Engineering and Semantic Web</strong></p>
 
-**<p class="text-center">September 21 - September 23, 2016</p>**
+<p class="text-center"><strong>September 21 - September 23, 2016</strong></p>
 
-**<p class="text-center">Prague, Czech Republic</p>**
+<p class="text-center"><strong>Prague, Czech Republic</strong></p>
 
 <blockquote>
     <p><strong>Latest news:</strong></p>
