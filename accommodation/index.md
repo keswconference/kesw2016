@@ -70,5 +70,3 @@ For additional accommodation requests please contact NH Prague Hotel reservation
 Ms. Marketa Fridrichova  
 e-mail: m.fridrichova-at-nh-hotels.com  
 phone: +420 257 153 435  
-
-TODO Remove me!
