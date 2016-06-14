@@ -22,7 +22,9 @@ Special rates for the conference participants:
     <tr><td>Superior Room</td><td>115 EUR</td><td>125 EUR</td></tr>
 </table>
 
+
 *Prices are per night, include buffet breakfast, internet connection, city tax and 15% of VAT.*
+
 
 Reservation deadlines:
 
