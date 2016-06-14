@@ -17,9 +17,13 @@ Czech Republic
 Special rates for the conference participants:
 
 <table>
-    <tr><th>Room category</th><th>Price per night (Early Bird)</th><th>Price per night (Regular)</th></thead>
+    <thead>
+        <tr><th>Room category</th><th>Price per night (Early Bird)</th><th>Price per night (Regular)</th></tr>
+    </thead>
+    <tbody>
     <tr><td>Standard New Style Room</td><td>100 EUR</td><td>110 EUR</td></tr>
     <tr><td>Superior Room</td><td>115 EUR</td><td>125 EUR</td></tr>
+    </tbody>
 </table>
 
 
@@ -35,7 +39,7 @@ Reservation deadlines:
 
 <p class="text-justify">If you are interested in hotel reservation, please fill the</p>
 
-**<center><a href="https://secure.action-m.com/kesw2016-form/">Reservation request</a></center>**
+<center><b><a href="https://secure.action-m.com/kesw2016-form/">Reservation request</a></b></center>
 
 ##### Standard New Style Room
 
