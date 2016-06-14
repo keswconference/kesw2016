@@ -3,7 +3,7 @@ layout: page
 title: Accommodation
 ---
 
-### [NH Prague City Hotel](http://www.nhprague.com) ****
+### [NH Prague City Hotel](http://www.nhprague.com) \****
 
 [Mozartova 261/1](https://www.google.com/maps/place/Hotel+NH+Prague+City/@50.0712744,14.3949973,17z/data=!3m1!4b1!4m2!3m1!1s0x470b9455a35c6a01:0xd57ac0c66b83b32a)  
 150 00 Prague  
