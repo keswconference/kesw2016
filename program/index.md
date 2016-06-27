@@ -5,6 +5,8 @@ title: The Program
 
 <!-- p<>. Best paper candidates are _emphasized_. -->
 
-Will be announced.
+Accepted papers can be found [here]({{ site.url }}/program/accepted/).
+
+Detailed program will be announced later.
 
 
