@@ -36,4 +36,4 @@ To give you better idea about prices in EUR, we suggest using <a href="http://ww
 
 ## Registration
 
-<center><b><a href="https://secure.action-m.com/kesw2016-form/">Register here</a></center>
+<center><b><a href="https://secure.action-m.com/kesw2016-form/">Register here</a></b></center>
