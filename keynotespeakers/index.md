@@ -4,6 +4,7 @@ title: Keynote Speakers
 published: true
 ---
 
+<div id="LyndaHardman"/>
 ### **[Lynda Hardman](https://www.cwi.nl/people/399)**, Centrum Wiskunde & Informatica and University of Utrecht,  Netherlands
 
 **From Linked Data to Stories: Using explicit semantics to improve interactive information access**
@@ -17,6 +18,7 @@ published: true
 
 <br/>
 
+<div id="AxelPolleres"/>
 ### **[Axel Polleres](https://ai.wu.ac.at/~polleres/)**, Institute for Information Business, WU Wien, Austria
 
 **(Enterprise) Linked Data: What's missing?**
@@ -26,8 +28,20 @@ published: true
 <p class="text-justify"><i>In this talk, I will discuss gaps and challenges to deploy the ideas of Linked Data and the Semantic Web, from an Enterprise point of view. Shifting away from a predominantly academic perspective and an exclusive focus on open data, many of us conceive Linked Data as an emerging key disruptive technology for enterprise data management. Still, various challenges lie ahead to lay the foundations for successful Enterprise Linked Data product and services development.</i></p>
 <p class="text-justify"><i>In a current research project, <a href="http://www.linked-data.at/">PROPEL: Propelling the potential of Enterprise Linked Data in Austria</a>, we gauge industry requirements and innovation potentials as well as technology & standards gaps for Linked Data to be effectively usable in enterprises. We'll report on the findings and on potential contributions to fill these gaps from our own research at WU Wien.</i></p>
 
+<div id="SteffenStaab" />
+### **[Steffen Staab](http://userpages.uni-koblenz.de/%7Estaab/)**, Institute WeST - Web Science and Technologies & Institute for Computer Science, University of Koblenz-Landau, Germany
+
+**Programming with Semantic Broad Data**
+
+<img class="keynote-photo" src="/resources/SteffenStaab.png"/>
+
+<p class="text-justify"><i>The challenges of Big Data are frequently explained by dealing with Volume, Velocity, Variety and Veracity. The large variety of data in organizations results from accessing different information systems with heterogeneous schemata or ontologies. In this talk I will present the research efforts that target the management of such broad data. They include: (i) an integrated development environment for programming with broad data, (ii) a query language that allows for typing of query results, (iii) a typed lambda-calculus based on description logics, and (iv) efficient access to data repositories via schema indices.</i></p>
+
 <br/>
 
+<br/>
+
+<div id="FilipZelezny"/>
 ### **[Filip Železný](http://ida.felk.cvut.cz/zelezny/)**, Department of Computer Science, FEE CTU in Prague, Czech Republic
 
 **Semantic web and machine learning: time to re-sync**
