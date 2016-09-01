@@ -21,12 +21,16 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair" colspan="2">Zenger Hall</td>
         </tr>
         <tr>
-             <td class="time">09:30-09:45</td>
+             <td class="time">09:00-09:15</td>
              <td><b>Opening and Introduction<br/><i>Petr Křemen</i></b></td>
         </tr>
         <tr>
-             <td class="time">09:45-10:30</td>
+             <td class="time">09:15-10:00</td>
              <td class="keynote"><b>(Enterprise) Linked Data: What’s missing?<br/><i>Axel Polleres</i></b></td>
+        </tr>
+        <tr>
+             <td class="time">10:10-10:20</td>
+             <td class="sponsored-keynote"><b>Ontology-based Information Extraction: A Few Practical Use Cases<br/><i>Boris Perušič (Datlowe)</i></b></td>
         </tr>
         <tr>
             <td class="time">10:30-11:00</td>
@@ -258,7 +262,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         </tr>
         <tr>
             <td class="time">17:00-18:00</td>
-            <td><b>Poster Session</b></td>
+            <td class="poster-session"><b>Poster Session</b></td>
         </tr>
         <tr>
             <td class="time">18:00</td>
@@ -359,12 +363,20 @@ Legend:
             <td class="white">Keynote talks</td>
         </tr>
         <tr>
+            <td style="width: 85px;" class="sponsored-keynote"></td>
+            <td class="white">Sponsored keynote talks</td>
+        </tr>
+        <tr>
             <td style="width: 85px;" class="paper"></td>
             <td class="white">Full papers</td>
         </tr>
         <tr>
             <td style="width: 85px;" class="poster"></td>
             <td class="white">Short papers</td>
+        </tr>
+        <tr>
+            <td style="width: 85px;" class="poster-session"></td>
+            <td class="white">Poster session</td>
         </tr>
         <tr>
             <td style="width: 85px;"></td>
