@@ -14,7 +14,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="day" colspan="2">Wednesday, September 21, 2016</td>
         </tr>
         <tr>
-            <td class="time">08:30-09:30</td>
+            <td class="time">08:00-09:00</td>
             <td>Conference Registration</td>
         </tr>
         <tr>
@@ -29,11 +29,11 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
              <td class="keynote"><b>(Enterprise) Linked Data: What’s missing?<br/><i>Axel Polleres</i></b></td>
         </tr>
         <tr>
-             <td class="time">10:10-10:20</td>
+             <td class="time">10:00-10:20</td>
              <td class="sponsored-keynote"><b>Ontology-based Information Extraction: A Few Practical Use Cases<br/><i>Boris Perušič (Datlowe)</i></b></td>
         </tr>
         <tr>
-            <td class="time">10:30-11:00</td>
+            <td class="time">10:20-10:50</td>
             <td>Coffee Break</td>
         </tr>
         <tr>
@@ -41,38 +41,38 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair"><b>Ontologies I</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">11:00-12:30</td>
+            <td class="time" colspan="2">10:50-12:20</td>
         </tr>
         <tr>
-            <td class="time">11:00-11:30</td>
+            <td class="time">10:50-11:20</td>
             <td class="paper">
                 <b>Multi-viewpoint Ontologies for Decision-making Support</b><br/>
                 <i><b>Sergey Gorshkov</b>, Maxim Miroshnichenko and Stanislav Kralin</i>
             </td>
         </tr>
         <tr>
-            <td class="time">11:30-12:00</td>
+            <td class="time">11:20-11:50</td>
             <td class="paper">
                 <b>User-driven Ontology Population from Linked Data Sources</b><br/>
                 <i><b>Panagiotis Mitzias</b>, Marina Riga, Efstratios Kontopoulos, Thanos Stavropoulos, Stelios Andreadis, Georgios Meditskos and Yiannis Kompatsiaris</i>
             </td>
         </tr>
         <tr>
-            <td class="time">12:00-12:15</td>
+            <td class="time">11:50-12:05</td>
             <td class="poster">
                 <b>Ontological Anti-patterns in Aviation Safety Event Models</b><br/>
                 <i><b>Jana Ahmad</b> and <b>Petr Křemen</b></i>
             </td>
         </tr>
         <tr>
-            <td class="time">12:15-12:30</td>
+            <td class="time">12:05-12:20</td>
             <td class="poster">
                 <b>Ontology for Performance Control in Service-Oriented System with Composite Services</b><br/>
                 <i><b>Maksim Khegai</b>, Dmitrii Zubok, Aleksandr Maiatin and Tatiana Kharchenko</i>
             </td>
         </tr>
         <tr>
-            <td class="time">12:30-14:00</td>
+            <td class="time">12:20-14:00</td>
             <td>Lunch Break</td>
         </tr>
         <tr>
