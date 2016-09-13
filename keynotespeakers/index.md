@@ -31,7 +31,7 @@ published: true
 <div id="SteffenStaab" />
 ### **[Steffen Staab](http://userpages.uni-koblenz.de/%7Estaab/)**, Institute WeST - Web Science and Technologies & Institute for Computer Science, University of Koblenz-Landau, Germany
 
-**Programming with Semantic Broad Data**
+**Programming with Semantic Broad Data***
 
 <img class="keynote-photo" src="/resources/SteffenStaab.png"/>
 
@@ -51,3 +51,7 @@ published: true
 <p class="text-justify"><i>I will review some recent developments due to different authors in the intersection of knowledge representation and semantic web on one hand, and machine learning on the other hand. The talk will address the state of the art in symbolic learning using logical frameworks native to the semantic web community, but it will also cover some interesting results triggered by the statistical and deep-learning stream, such as embedding knowledge bases into tensor or connectionist representations allowing the induction of novel concepts.</i></p>
 
 <br/>
+
+
+<hr/>
+*Keynote is collocated with the [Prague Computer Science Seminar](http://www.praguecomputerscience.cz/).

@@ -258,7 +258,11 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         </tr>
         <tr>
              <td class="time">16:00-17:00</td>
-             <td class="keynote"><b>Programming with Semantic Broad Data<br/><i>Steffen Staab</i></b></td>
+             <td class="keynote">
+                <b>Programming with Semantic Broad Data<br/>
+                <i>Steffen Staab</i></b><br/>
+                <i>(Collocated with <a href="http://www.praguecomputerscience.cz/">PIS</a>)</i>
+             </td>
         </tr>
         <tr>
             <td class="time">17:00-18:00</td>
