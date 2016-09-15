@@ -37,3 +37,8 @@ To give you better idea about prices in EUR, we suggest using <a href="http://ww
 ## Registration
 
 <center><b><a href="https://secure.action-m.com/kesw2016-form/">Register here</a></b></center>
+
+<br/>
+<blockquote>
+<i>CTU students and employees can participate FREE of charge on the scientific programme (no refreshments, no proceedings, no social event). In such case, please register normally, filling 0 CZK into the "registration fee" field and CVUT<-your-CTU-ID> into the "note" field (e.g. CVUT-novakj1)</i>
+</blockquote>
