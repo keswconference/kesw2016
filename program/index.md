@@ -38,7 +38,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
                     <b>A bank information extraction system based on Named Entity Recognition with CRFs from noisy customer order texts in Turkish</b><br/>
                     <i><b>Erdem Emekligil</b>, <b>Secil Arslan</b> and Onur Agin</i>
                 </td>
-            </tr>
+        </tr>
         <tr>
             <td class="time">09:45-10:15</td>
             <td class="paper">
@@ -66,8 +66,10 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         </tr>
         <tr>
              <td class="time">11:15-11:35</td>
-             <td class="sponsored-keynote"><b>Ontology-based Information Extraction: A Few Practical Use Cases<br/>
-             <i>Boris Perušič</b>, Jakub Kozák <b>(Datlowe)</i></b></td>
+             <td class="sponsored-keynote">
+             <b>Ontology-based Information Extraction: A Few Practical Use Cases</b><br/>
+             <i><b>Boris Perušič</b>, Jakub Kozák (Datlowe)</i>
+             </td>
         </tr>
         <tr>
             <td class="time">11:35-14:00</td>
@@ -370,6 +372,9 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         </tr>
     </tbody>
 </table>
+
+
+
 
 Legend:
 <table class="legend program">
