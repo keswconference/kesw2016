@@ -25,62 +25,61 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
              <td><b>Opening and Introduction<br/><i>Petr Křemen</i></b></td>
         </tr>
         <tr>
-             <td class="time">09:15-10:00</td>
-             <td class="keynote"><b>(Enterprise) Linked Data: What’s missing?<br/><i>Axel Polleres</i></b></td>
+            <td class="chair">Zenger Hall</td>
+            <td class="chair"><b>Knowledge and Information Extraction I</b></td>
         </tr>
         <tr>
-             <td class="time">10:00-10:20</td>
-             <td class="sponsored-keynote"><b>Ontology-based Information Extraction: A Few Practical Use Cases<br/><i>Boris Perušič (Datlowe)</i></b></td>
+            <td class="time">09:15-10:45</td>
+            <td class="chair"><b>Chair</b>: Boris Perušič</td>
         </tr>
         <tr>
-            <td class="time">10:20-10:50</td>
+            <td class="time">09:15-09:45</td>
+                <td class="paper">
+                    <b>A bank information extraction system based on Named Entity Recognition with CRFs from noisy customer order texts in Turkish</b><br/>
+                    <i><b>Erdem Emekligil</b>, <b>Secil Arslan</b> and Onur Agin</i>
+                </td>
+            </tr>
+        <tr>
+            <td class="time">09:45-10:15</td>
+            <td class="paper">
+                <b>Thesaurus-based Method of Increasing Text-via-Keyphrase Graph Connectivity during Keyphrase Extraction for e-Tourism Applications</b><br/>
+                <i><b>Ilya Paramonov</b>, OKsenia Lagutina, Eldar Mamedov and Nadezhda Lagutina</i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">10:15-10:30</td>
+            <td class="poster">
+                <b>Family matters: company relations extraction from Wikipedia</b><br/>
+                <i>Artem Kuznetsov, Pavel Braslavski and <b>Vladimir Ivanov</b></i>
+            </td>
+        </tr>
+        <tr>
+            <td class="time">10:30-10:45</td>
+            <td class="poster">
+                <b>A new operationalization of contrastive term extraction approach based on recognition of both representative and specific terms</b><br/>
+                <i>Aliya Nugumanova, <b>Igor Bessmertny</b>, Yerzhan Baiburin and Madina Mansurova</i>
+            </td>
+        </tr>        
+        <tr>
+            <td class="time">10:45-11:15</td>
             <td>Coffee Break</td>
         </tr>
+        <tr>
+             <td class="time">11:15-11:35</td>
+             <td class="sponsored-keynote"><b>Ontology-based Information Extraction: A Few Practical Use Cases<br/>
+             <i>Boris Perušič</b>, Jakub Kozák <b>(Datlowe)</i></b></td>
+        </tr>
+        <tr>
+            <td class="time">11:35-14:00</td>
+            <td>Lunch Break</td>
+        </tr>             
         <tr>
             <td class="chair">Zenger Hall</td>
             <td class="chair"><b>Ontologies I</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">10:50-12:20</td>
-        </tr>
-        <tr>
-            <td class="time">10:50-11:20</td>
-            <td class="paper">
-                <b>Multi-viewpoint Ontologies for Decision-making Support</b><br/>
-                <i><b>Sergey Gorshkov</b>, Maxim Miroshnichenko and Stanislav Kralin</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">11:20-11:50</td>
-            <td class="paper">
-                <b>User-driven Ontology Population from Linked Data Sources</b><br/>
-                <i><b>Panagiotis Mitzias</b>, Marina Riga, Efstratios Kontopoulos, Thanos Stavropoulos, Stelios Andreadis, Georgios Meditskos and Yiannis Kompatsiaris</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">11:50-12:05</td>
-            <td class="poster">
-                <b>Ontological Anti-patterns in Aviation Safety Event Models</b><br/>
-                <i><b>Jana Ahmad</b> and <b>Petr Křemen</b></i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">12:05-12:20</td>
-            <td class="poster">
-                <b>Ontology for Performance Control in Service-Oriented System with Composite Services</b><br/>
-                <i><b>Maksim Khegai</b>, Dmitrii Zubok, Aleksandr Maiatin and Tatiana Kharchenko</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">12:20-14:00</td>
-            <td>Lunch Break</td>
-        </tr>
-        <tr>
-            <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Ontologies II</b></td>
-        </tr>
-        <tr>
-            <td class="time" colspan="2">14:00-15:30</td>
+            <td class="time">14:00-15:30</td>
+            <td class="chair"><b>Chair</b>: Dmitry Mouromtsev</td>
         </tr>
         <tr>
             <td class="time">14:00-14:30</td>
@@ -102,52 +101,55 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
                 <b>Ontology-based information extraction for populating the Intelligent Scientific Internet Resources</b><br/>
                 <i><b>Irina Akhmadeeva</b>, Yury Zagorulko and <b>Dmitry Mouromtsev</b></i>
             </td>
-        </tr>
+        </tr>   
         <tr>
             <td class="time">15:30-16:00</td>
             <td>Coffee Break</td>
         </tr>
         <tr>
             <td class="chair">Zenger Hall</td>
-            <td class="chair"><b>Knowledge and Information Extraction I</b></td>
+            <td class="chair"><b>Chair</b>: Petr Křemen</td>
+        </tr>        
+        <tr>
+             <td class="time">16:00-16:45</td>
+             <td class="keynote"><b>(Enterprise) Linked Data: What’s missing?<br/><i>Axel Polleres</i></b></td>
+        </tr>        
+        <tr>
+            <td class="chair">Zenger Hall</td>
+            <td class="chair"><b>Ontologies II</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">16:00-17:30</td>
+            <td class="time">16:45-17:45</td>
+            <td class="chair"><b>Chair</b>: Axel Polleres</td>
         </tr>
         <tr>
-            <td class="time">16:00-16:30</td>
-                <td class="paper">
-                    <b>A bank information extraction system based on Named Entity Recognition with CRFs from noisy customer order texts in Turkish</b><br/>
-                    <i><b>Erdem Emekligil</b>, <b>Secil Arslan</b> and Onur Agin</i>
-                </td>
-            </tr>
-        <tr>
-            <td class="time">16:30-17:00</td>
+            <td class="time">16:45-17:15</td>
             <td class="paper">
-                <b>Thesaurus-based Method of Increasing Text-via-Keyphrase Graph Connectivity during Keyphrase Extraction for e-Tourism Applications</b><br/>
-                <i><b>Ilya Paramonov</b>, OKsenia Lagutina, Eldar Mamedov and Nadezhda Lagutina</i>
-            </td>
-        </tr>
-        <tr>
-            <td class="time">17:00-17:15</td>
-            <td class="poster">
-                <b>Family matters: company relations extraction from Wikipedia</b><br/>
-                <i>Artem Kuznetsov, Pavel Braslavski and <b>Vladimir Ivanov</b></i>
+                <b>User-driven Ontology Population from Linked Data Sources</b><br/>
+                <i><b>Panagiotis Mitzias</b>, Marina Riga, Efstratios Kontopoulos, Thanos Stavropoulos, Stelios Andreadis, Georgios Meditskos and Yiannis Kompatsiaris</i>
             </td>
         </tr>
         <tr>
             <td class="time">17:15-17:30</td>
             <td class="poster">
-                <b>A new operationalization of contrastive term extraction approach based on recognition of both representative and specific terms</b><br/>
-                <i>Aliya Nugumanova, <b>Igor Bessmertny</b>, Yerzhan Baiburin and Madina Mansurova</i>
+                <b>Ontological Anti-patterns in Aviation Safety Event Models</b><br/>
+                <i><b>Jana Ahmad</b> and <b>Petr Křemen</b></i>
             </td>
         </tr>
+        <tr>
+            <td class="time">17:30-17:45</td>
+            <td class="poster">
+                <b>Ontology for Performance Control in Service-Oriented System with Composite Services</b><br/>
+                <i><b>Maksim Khegai</b>, Dmitrii Zubok, Aleksandr Maiatin and Tatiana Kharchenko</i>
+            </td>
+        </tr>        
         <tr><td class="chair" colspan="2">&nbsp;</td></tr>
         <tr>
             <td class="day" colspan="2">Thursday, September 22, 2016</td>
         </tr>
         <tr>
-            <td class="chair" colspan="2">Zenger Hall</td>
+            <td class="chair">Zenger Hall</td>
+            <td class="chair"><b>Chair</b>: Petr Křemen</td>
         </tr>
         <tr>
              <td class="time">09:00-09:45</td>
@@ -158,7 +160,8 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair"><b>Knowledge and Information Extraction II</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">09:45-10:45</td>
+            <td class="time">09:45-10:45</td>
+            <td class="chair"><b>Chair</b>: Lynda Hardman</td>
         </tr>
         <tr>
             <td class="time">09:45-10:15</td>
@@ -190,7 +193,8 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair"><b>Data Management I</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">11:15-12:45</td>
+            <td class="time">11:15-12:45</td>
+            <td class="chair"><b>Chair</b>: Petr Křemen</td>
         </tr>
         <tr>
             <td class="time">11:15-11:45</td>
@@ -229,7 +233,8 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair"><b>Data Management II</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">14:00-15:30</td>
+            <td class="time">14:00-15:30</td>
+            <td class="chair"><b>Chair</b>: Pavel Klinov</td>
         </tr>
         <tr>
             <td class="time">14:00-14:30</td>
@@ -256,6 +261,10 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="time">15:30-16:00</td>
             <td>Coffee Break</td>
         </tr>
+        <tr>
+            <td class="chair">Zenger Hall</td>
+            <td class="chair"><b>Chair</b>: Vojtěch Svátek</td>
+        </tr>                
         <tr>
              <td class="time">16:00-17:00</td>
              <td class="keynote">
@@ -286,7 +295,8 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="day" colspan="2">Friday, September 23, 2016</td>
         </tr>
         <tr>
-            <td class="chair" colspan="2">Zenger Hall</td>
+            <td class="chair">Zenger Hall</td>
+            <td class="chair"><b>Chair</b>: Petr Křemen</td>
         </tr>
         <tr>
              <td class="time">09:00-09:45</td>
@@ -297,20 +307,21 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair"><b>Data Management III</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">09:45-10:45</td>
+            <td class="time">09:45-10:45</td>
+            <td class="chair"><b>Chair</b>: Ricardo Usbeck</td>
         </tr>
         <tr>
             <td class="time">09:45-10:15</td>
             <td class="paper">
                 <b>Ethnicity Sensitive Author Disambiguation Using Semi-supervised Learning</b><br/>
-                <i>Gilles Louppe, Hussein Al-Natsheh, <b>Mateusz Susik</b> and Eamonn Maguire</i>
+                <i>Gilles Louppe, <b>Hussein Al-Natsheh</b>, <b>Mateusz Susik</b> and Eamonn Maguire</i>
             </td>
         </tr>
         <tr>
             <td class="time">10:15-10:45</td>
             <td class="paper">
                 <b>Towards Flexible K-Anonymity</b><br/>
-                <i><b>Rima Kilany</b>, Maria Sokhn and Shaban Shabani</i>
+                <i>Rima Kilany, Maria Sokhn and <b>Shaban Shabani</b></i>
             </td>
         </tr>
         <tr>
@@ -322,13 +333,14 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="chair"><b>Applications</b></td>
         </tr>
         <tr>
-            <td class="time" colspan="2">11:15-12:45</td>
+            <td class="time">11:15-12:45</td>
+            <td class="chair"><b>Chair</b>: Filip Železný</td>
         </tr>
         <tr>
             <td class="time">11:15-11:45</td>
             <td class="paper">
                 <b>Designing modern enterprise search systems: the DIESEL case</b><br/>
-                <i>Ricardo Usbeck, Michael Röder, Peter Haase, Artem Kozlov, Axel-Cyrille Ngonga Ngomo and Muhammad Saleem</i>
+                <i><b>Ricardo Usbeck</b>, Michael Röder, Peter Haase, Artem Kozlov, Axel-Cyrille Ngonga Ngomo and Muhammad Saleem</i>
             </td>
         </tr>
         <tr>
@@ -349,7 +361,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
             <td class="time">12:30-12:45</td>
             <td class="poster">
                 <b>Medical knowledge representation for evaluation of patient’s state using complex indicators</b><br/>
-                <i>Nataly Zhukova, Mikhail Lushnov, Vyacheslav Kudashov, Maxim Lapaev and Denis Korobov</i>
+                <i>Nataly Zhukova, Mikhail Lushnov, Vyacheslav Kudashov, <b>Maxim Lapaev</b> and Denis Korobov</i>
             </td>
         </tr>
         <tr>
