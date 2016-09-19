@@ -3,7 +3,7 @@ layout: page
 title: The Program
 ---
 
-<!-- Best paper candidates are _emphasized_. -->
+Best paper candidates are _emphasized_.
 
 PDF version of the program can be downloaded [here]({{ site.url }}/resources/program.pdf).
 
@@ -35,7 +35,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         <tr>
             <td class="time">09:15-09:45</td>
                 <td class="paper">
-                    <b>A bank information extraction system based on Named Entity Recognition with CRFs from noisy customer order texts in Turkish</b><br/>
+                    <i><b>A bank information extraction system based on Named Entity Recognition with CRFs from noisy customer order texts in Turkish</b></i><br/>
                     <i><b>Erdem Emekligil</b>, <b>Secil Arslan</b> and Onur Agin</i>
                 </td>
         </tr>
@@ -315,7 +315,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         <tr>
             <td class="time">09:45-10:15</td>
             <td class="paper">
-                <b>Ethnicity Sensitive Author Disambiguation Using Semi-supervised Learning</b><br/>
+                <i><b>Ethnicity Sensitive Author Disambiguation Using Semi-supervised Learning</b></i><br/>
                 <i>Gilles Louppe, <b>Hussein Al-Natsheh</b>, <b>Mateusz Susik</b> and Eamonn Maguire</i>
             </td>
         </tr>
@@ -341,7 +341,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         <tr>
             <td class="time">11:15-11:45</td>
             <td class="paper">
-                <b>Designing modern enterprise search systems: the DIESEL case</b><br/>
+                <i><b>Designing modern enterprise search systems: the DIESEL case</b></i><br/>
                 <i><b>Ricardo Usbeck</b>, Michael Röder, Peter Haase, Artem Kozlov, Axel-Cyrille Ngonga Ngomo and Muhammad Saleem</i>
             </td>
         </tr>
