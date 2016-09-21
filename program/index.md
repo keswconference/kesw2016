@@ -236,7 +236,7 @@ PDF version of the program can be downloaded [here]({{ site.url }}/resources/pro
         </tr>
         <tr>
             <td class="time">14:00-15:30</td>
-            <td class="chair"><b>Chair</b>: Pavel Klinov</td>
+            <td class="chair"><b>Chair</b>: Miroslav Blaško</td>
         </tr>
         <tr>
             <td class="time">14:00-14:30</td>
