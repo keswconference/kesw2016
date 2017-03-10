@@ -1,6 +1,6 @@
 ---
-title: Register
 layout: page
+title: Register
 ---
 
 ## Registration Fees

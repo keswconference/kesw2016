@@ -1,6 +1,6 @@
 ---
-title: Payment information
 layout: page
+title: Payment information
 ---
 
 Payment in CZK can be made:

@@ -1,6 +1,6 @@
 ---
-title: Venue
 layout: page
+title: Venue
 ---
 
 <p class="text-justify">KESW 2016 will be hosted on the campus of the <a href="https://www.cvut.cz/en/">Czech Technical University in Prague</a>, within walking distance of the Prague's city center. A walking trip to the famous Wenceslas Square takes no longer than 10 minutes. Prague Castle is reachable either via metro (with a short walk) in about 15 minutes or using tram.</p>

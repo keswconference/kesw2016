@@ -1,6 +1,6 @@
 ---
-title: Registration FAQ
 layout: page
+title: Registration FAQ
 ---
 
 ### Registration and payments 

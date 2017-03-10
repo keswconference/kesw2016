@@ -1,6 +1,6 @@
 ---
-title: Call for Industry Track
 layout: page
+title: Call for Industry Track
 ---
 
 For the industry track we solicit papers that describe practical experience of using Semantic Web or KR-related technologies in practical projects. Descriptions of industrial deployments and production usage are especially invited but papers with preliminary experience are also welcome (as long as the authors are able to demonstrate, preferably with some quantitative data, practical utility of Semantic Web technologies in a particular domain).

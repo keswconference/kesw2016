@@ -1,6 +1,6 @@
 ---
-title: Visa support
 layout: page
+title: Visa support
 ---
 
 <p class="text-justify">A valid passport is required to visit the Czech Republic.</p>

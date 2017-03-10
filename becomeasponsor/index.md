@@ -1,6 +1,6 @@
 ---
-title: Become a Sponsor
 layout: page
+title: Become a Sponsor
 ---
 
 # Platinum Sponsor (3 000 Euro)

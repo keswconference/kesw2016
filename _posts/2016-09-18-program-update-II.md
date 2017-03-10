@@ -1,7 +1,6 @@
 ---
-title: Conference Program Update II
-date: 2016-09-18 00:00:00 Z
 layout: post
+title: Conference Program Update II
 ---
 
 Due to unforeseen circumstances, we had to update the conference program again. 
