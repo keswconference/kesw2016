@@ -1,5 +1,5 @@
 ---
-title: Kesw2016
+title: KESW2016
 timezone: UTC
 collections:
   posts:
@@ -14,4 +14,3 @@ markdown: kramdown
 highligther: pygments
 safe: true
 encoding: UTF-8
-exclude: []
