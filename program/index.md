@@ -1,6 +1,6 @@
 ---
-layout: page
 title: The Program
+layout: page
 ---
 
 Best paper candidates are _emphasized_.

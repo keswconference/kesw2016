@@ -1,7 +1,6 @@
 ---
-layout: page
 title: News
-published: true
+layout: page
 ---
 
 {% for post in site.posts %}

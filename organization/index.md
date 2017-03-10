@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Organization committee
-published: true
+layout: page
 ---
 
 ### Main organizers
