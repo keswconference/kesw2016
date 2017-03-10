@@ -1,6 +1,6 @@
 ---
-title: Registration Pages
 layout: page
+title: Registration Pages
 ---
 
 * [Register Here!]({{ site.url }}/registration/main)

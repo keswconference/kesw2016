@@ -1,6 +1,6 @@
 ---
-title: Accepted Papers
 layout: page
+title: Accepted Papers
 ---
 
 ### Full Papers

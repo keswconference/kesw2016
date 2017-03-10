@@ -1,7 +1,6 @@
 ---
-title: Best Paper Candidates
-date: 2016-09-21 00:00:00 Z
 layout: post
+title: Best Paper Candidates
 ---
 
 We are happy to announce that the following papers have been selected as candidates for the Best Paper Award:

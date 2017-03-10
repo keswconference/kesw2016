@@ -1,6 +1,6 @@
 ---
-title: Attending KESW 2016
 layout: page
+title: Attending KESW 2016
 ---
 
 ## Venue

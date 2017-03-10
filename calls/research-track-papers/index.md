@@ -1,6 +1,6 @@
 ---
-title: Call for Research Track
 layout: page
+title: Call for Research Track
 ---
 
 p<>. For the research track we welcome novel papers addressing theoretical, analytical or empirical aspects of research related to KR and Semantic Web. Topics of interest include but are not limited to:
