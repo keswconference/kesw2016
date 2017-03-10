@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contacts
+layout: page
 ---
 
 <p class="text-justify">Please contact us if you cannot find the information you need on our site.</p>

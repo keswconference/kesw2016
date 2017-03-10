@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Accommodation
+layout: page
 ---
 
 ### [NH Prague City Hotel](http://www.nhprague.com) \****

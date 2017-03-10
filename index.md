@@ -1,6 +1,6 @@
 ---
-layout: frontpage
 title: International Knowledge Engineering and Semantic Web Conference 2016
+layout: frontpage
 ---
 
 <p class="text-center"><strong>International Conference on Knowledge Engineering and Semantic Web</strong></p>

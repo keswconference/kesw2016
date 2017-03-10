@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Extra keynote speaker - Steffen Staab
+date: 2016-07-27 00:00:00 Z
+layout: post
 ---
 
 <p class="text-justify">We are happy to announce that a fourth keynote will take place at KESW 2016. The keynote will be given by prof. Steffen Staab of the University of Koblenz-Landau.

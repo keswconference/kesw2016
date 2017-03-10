@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Keynote Speakers
-published: true
+layout: page
 ---
 
 <div id="LyndaHardman"/>

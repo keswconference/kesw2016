@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Registration Pages
+layout: page
 ---
 
 * [Register Here!]({{ site.url }}/registration/main)
